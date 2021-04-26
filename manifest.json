@@ -1,0 +1,10 @@
+{
+	"name": "もういくつ寝ると、今年のズ！",
+	"version": "0.1",
+	"description": "渋谷ズンチャカ！2021当日までの残り日数だけをひたすらお知らせします。",
+	"browser_action": {
+	  "default_popup": "index.html",
+	  "default_icon": "icon.png"
+	},
+	"manifest_version": 2
+  }
